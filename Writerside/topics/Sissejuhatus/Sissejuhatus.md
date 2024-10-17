@@ -1,3 +1,0 @@
-# Sissejuhatus
-
-Start typing here...

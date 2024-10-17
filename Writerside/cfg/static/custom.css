@@ -1,3 +1,20 @@
 .wh-header__product-name {
     color: black
 }
+
+.toc-item--selected {
+    color: black
+}
+
+.toc-item--selected:hover {
+    color: black;
+}
+
+/* Ensure the fill color is set for all paths in the SVG */
+.wh-header__switchers svg {
+    color: black; /* This helps in case the SVG inherits color */
+}
+
+.wh-header__search-button svg path {
+    fill: black; /* Change the fill color to black */
+}

@@ -1,5 +1,7 @@
 # Käsiraamatu eesmärk
 
-## Ülevaade AV-operatsioonidest
+## AV-süsteemide ülevaade
+Sissejuhatus AV-süsteemide korrektse haldamise tähtsusse.
 
-## Sihtrühm ja reguleerimisala
+## Sihtgrupp ja ulatus
+Kellele see käsiraamat on mõeldud ja milliseid seadmeid see hõlmab.
