@@ -1,4 +1,4 @@
-name: Build documentation
+name: TBG Tech Docs
 
 on:
   push:
