@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="tttj"
+                 name="TBG Tehnika Käsiraamat"
+                 start-page="Main.md">
+
+    <toc-element topic="Main.md" hidden="true"/>
+    <toc-element toc-title="Sissejuhatus">
+        <toc-element topic="Eesmärk.md">
+        </toc-element>
+        <toc-element topic="Kasutamine.md">
+        </toc-element>
+        <toc-element topic="Ohutus.md"/>
+    </toc-element>
+    <toc-element topic="Alused.md">
+        <toc-element topic="Valgus.md"/>
+        <toc-element topic="Video.md"/>
+        <toc-element topic="Heli.md"/>
+    </toc-element>
+    <toc-element topic="Kaablid, ühendused ja signaalid.md">
+    </toc-element>
+</instance-profile>

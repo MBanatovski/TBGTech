@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE buildprofiles SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-profiles.dtd">
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <variables></variables>
+    <build-profile instance="tttj">
+        <variables>
+            <header-logo>Vector_(2).svg</header-logo>
+            <custom-favicons>Tabasalu-Gumnaasium_favicon_yellow.png</custom-favicons>
+            <primary-color>#fafa53</primary-color>
+            <color-preset>vivid</color-preset>
+            <custom-css>custom.css</custom-css>
+
+            <noindex-content>true</noindex-content>
+            <offline-docs>true</offline-docs>
+        </variables>
+    </build-profile>
+
+</buildprofiles>
