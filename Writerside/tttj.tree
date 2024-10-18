@@ -7,21 +7,60 @@
                  start-page="Main.md">
 
     <toc-element topic="Main.md" hidden="true"/>
-    <toc-element toc-title="Sissejuhatus">
-        <toc-element topic="Eesmärk.md">
-        </toc-element>
-        <toc-element topic="Kasutamine.md">
-        </toc-element>
-        <toc-element topic="Ohutus.md"/>
+    <toc-element toc-title="1. Sissejuhatus Live Soundi">
+        <toc-element topic="1-1-Live-Sound.md"/>
     </toc-element>
-    <toc-element toc-title="Audio-, video- ja valgustuse alused">
-        <toc-element topic="Valgus.md"/>
-        <toc-element topic="Heli-Adv.md"/>
-        <toc-element topic="Video.md"/>
-        <toc-element topic="Video-Adv.md"/>
-        <toc-element topic="Heli.md"/>
-        <toc-element topic="Valgus-Adv.md"/>
+    <toc-element toc-title="2. Heli põhitõed">
+        <toc-element topic="2-1-Heli-mõistmine.md"/>
+        <toc-element topic="2-2-Heli-omadused.md"/>
+        <toc-element topic="2-3-Akustiliste-ruumide-olemus.md"/>
     </toc-element>
-    <toc-element topic="Kaablid-ühendused-ja-signaalid.md">
+    <toc-element toc-title="3. Helisignaali voog">
+        <toc-element topic="3-1-Põhiline-helisignaali-teekond.md"/>
+        <toc-element topic="3-2-Helisignaalide-tüübid.md"/>
+    </toc-element>
+    <toc-element toc-title="4. Mikrofonid">
+        <toc-element topic="4-1-Sissejuhatus-mikrofonidesse.md"/>
+        <toc-element topic="4-2-Mikrofonide-tüübid.md"/>
+        <toc-element topic="4-3-Mikrofonide-mustrid.md"/>
+        <toc-element topic="4-4-Mikrofonide-paigutamine.md"/>
+    </toc-element>
+    <toc-element toc-title="5. Miksimiskonsoolid">
+        <toc-element topic="5-1-Mikserite-ülevaade.md"/>
+        <toc-element topic="5-2-Mikseri-tüübid.md"/>
+        <toc-element topic="5-3-Mikseri-juhtnupud-ja-funktsioonid.md"/>
+    </toc-element>
+    <toc-element toc-title="6. Signaalitöötlus">
+        <toc-element topic="6-1-Sissejuhatus-helitöötlusesse.md"/>
+        <toc-element topic="6-2-Dünaamikaprotsessorid.md"/>
+        <toc-element topic="6-3-Tasandus-ja-filtrid.md"/>
+        <toc-element topic="6-4-Ajapõhised-efektid.md"/>
+    </toc-element>
+    <toc-element toc-title="7. Kõlarid ja võimendid">
+        <toc-element topic="7-1-Kõlarid.md"/>
+        <toc-element topic="7-2-Võimendid.md"/>
+        <toc-element topic="7-3-Kõlari-paigutus-ja-leviala.md"/>
+        <toc-element topic="7-4-Monitorsüsteemid.md"/>
+    </toc-element>
+    <toc-element toc-title="8. Live-heli seadistamine ja kasutamine">
+        <toc-element topic="8-1-Ürituseeelne-setup.md"/>
+        <toc-element topic="8-2-Reaalajas-miksimine.md"/>
+        <toc-element topic="8-3-Levinud-probleemid.md"/>
+    </toc-element>
+    <toc-element toc-title="9. Kooli varustus">
+        <toc-element topic="9-4-Kooli-kõlarite-kasutus.md"/>
+        <toc-element topic="9-3-Kooli-juhtmevabade-süsteemide-kasutus.md"/>
+        <toc-element topic="9-2-Kooli-miksimispuldi-kasutus.md"/>
+        <toc-element topic="9-1-Ülevaade-kooli-varustusest.md"/>
+    </toc-element>
+    <toc-element toc-title="10. Edasijõudnud teemad">
+    </toc-element>
+    <toc-element toc-title="11. Põhistenaariumid">
+        <toc-element topic="11-1-Aatrium.md"/>
+        <toc-element topic="11-2-Söökla.md"/>
+        <toc-element topic="11-3-Auditoorium.md"/>
+    </toc-element>
+    <toc-element toc-title="12. Põhilised augud">
+        <toc-element topic="12-1-Mida-teha-kui-heli-ei-tule.md"/>
     </toc-element>
 </instance-profile>

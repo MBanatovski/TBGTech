@@ -1,0 +1,3 @@
+# 6.2 Dünaamikaprotsessorid
+
+Start typing here...

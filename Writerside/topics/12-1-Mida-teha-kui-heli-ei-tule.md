@@ -1,0 +1,3 @@
+# 12.1 Mida teha kui heli ei tule?
+
+Start typing here...

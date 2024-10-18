@@ -1,3 +1,0 @@
-# Kaablid, ühendused ja signaalid
-
-Start typing here...

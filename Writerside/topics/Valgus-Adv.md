@@ -1,3 +1,0 @@
-# Advanced valgusteooria
-
-Start typing here...

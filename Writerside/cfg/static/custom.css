@@ -14,7 +14,3 @@
 .wh-header__switchers svg {
     color: black; /* This helps in case the SVG inherits color */
 }
-
-.wh-header__search-button svg path {
-    fill: black; /* Change the fill color to black */
-}
